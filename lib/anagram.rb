@@ -8,4 +8,6 @@ class Anagram
     @word = []
   end
   
+  def 
+  
 end
